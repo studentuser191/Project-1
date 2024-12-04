@@ -1,0 +1,14 @@
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\bin\Debug\net8.0\P1 -Algorithmic Complexity.exe
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\bin\Debug\net8.0\P1 -Algorithmic Complexity.deps.json
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\bin\Debug\net8.0\P1 -Algorithmic Complexity.runtimeconfig.json
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\bin\Debug\net8.0\P1 -Algorithmic Complexity.dll
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\bin\Debug\net8.0\P1 -Algorithmic Complexity.pdb
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\obj\Debug\net8.0\P1 -Algorithmic Complexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\obj\Debug\net8.0\P1 -Algorithmic Complexity.AssemblyInfoInputs.cache
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\obj\Debug\net8.0\P1 -Algorithmic Complexity.AssemblyInfo.cs
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\obj\Debug\net8.0\P1 -Algorithmic Complexity.csproj.CoreCompileInputs.cache
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\obj\Debug\net8.0\P1 -Algorithmic Complexity.dll
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\obj\Debug\net8.0\refint\P1 -Algorithmic Complexity.dll
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\obj\Debug\net8.0\P1 -Algorithmic Complexity.pdb
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\obj\Debug\net8.0\P1 -Algorithmic Complexity.genruntimeconfig.cache
+C:\Users\ASSUREX\source\repos\P1 -Algorithmic Complexity\P1 -Algorithmic Complexity\obj\Debug\net8.0\ref\P1 -Algorithmic Complexity.dll
